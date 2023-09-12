@@ -1,0 +1,5 @@
+A2	Ready Salted	2.40
+B3	Salt & Vinegar	3.20
+C4	Cheese & Onion	3.50
+D5	Bacon Flavour	3.30
+E6	Prawn Cocktail	2.95

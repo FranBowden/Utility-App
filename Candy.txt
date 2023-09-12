@@ -1,0 +1,5 @@
+A6	Skittles			2.35
+B7	Haribos			1.80
+C8	Jelly Babies		2.05
+D9	Refreshers			1.05
+E1	Gummy Bears			1.30

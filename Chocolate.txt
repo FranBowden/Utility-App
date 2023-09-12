@@ -1,0 +1,5 @@
+A1	MilkyWay		1.05
+B2	Mars Bar		1.10
+C3	Snickers		1.52
+D4	Kinder Bueno	3.40
+F5	Kitkat Chunky	1.50

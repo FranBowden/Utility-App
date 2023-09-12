@@ -1,0 +1,5 @@
+A7	Pepsi Max		1.20
+B8	Coke Cola		1.90
+C9	Fanta Orange	1.30
+D1	Mountain Dew	2.10
+E2	Bottled Water	1.50
